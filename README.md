@@ -1,5 +1,5 @@
 # Analysis-of-Hotel-Review-Sentiment---NLP
-# pandas,matplotlib,nltk,sklearn
+# nltk,pandas,matplotlib,sklearn
 This project will predict the positive/negative sentiment of a hotel review.
 
 # Dataset
